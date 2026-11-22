@@ -12,7 +12,7 @@ Sum up 22 November's world news in one image: your program writes one image of t
 python3 main.py
 ```
 
-The program draws a deterministic 1024x1024 front page with Pillow: six verified stories from Sunday 22 November 2026 (Mexico captures El Chapo's son Isidro, COP31 nears a deal, FBI probes a breach of its crime database, a magnitude 4.1 quake strikes Myanmar, coalition talks open in Israel, Kate's road-to-recovery film) plus a ticker of secondary items. No network, no clock, no randomness.
+The program draws a deterministic 1024x1024 front page with only the Python standard library (a bitmap font atlas decoded with zlib, hand-written raster drawing, hand-rolled PNG encoding): six verified stories from Sunday 22 November 2026 (Mexico captures El Chapo's son Isidro, COP31 nears a deal, FBI probes a breach of its crime database, a magnitude 4.1 quake strikes Myanmar, coalition talks open in Israel, Kate's road-to-recovery film) plus a ticker of secondary items. No network, no clock, no randomness.
 
 ---
 
